@@ -1,6 +1,6 @@
 package data;
 
-public class Response {
+public class MessageHistory {
     public int count;
     public Message[] items;
 }
