@@ -1,0 +1,5 @@
+package data;
+
+public enum AicType {
+    STRUCTURIZED_FULL,STRUCTURIZED_PART,RANDOM,MESSAGE_RANDOM
+}
