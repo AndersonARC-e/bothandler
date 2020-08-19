@@ -1,2 +1,3 @@
 # bothandler
-First version of VK API bot based on user account. Is deprecated and no longer developed now, new bot is written in Kotlin and currently in development (private repo) 
+
+VK API bot that I have made to study Java. This repository is deprecated and no longer maintained now.
